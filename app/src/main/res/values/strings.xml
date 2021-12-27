@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreferenceDataStore</string>
+    <string name="key">Enter the Key</string>
+    <string name="keyHint">e.g key</string>
+    <string name="value">Enter the value</string>
+    <string name="valueHint">e.g hello</string>
+    <string name="saveKeyButton">Save</string>
+    <string name="readKeyButton">Read</string>
+</resources>
